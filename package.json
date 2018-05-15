@@ -1,0 +1,24 @@
+{
+  "name": "HTML Formatter",
+  "version": "1.0.0",
+  "description": "Format the html data in JSON LD Format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:codetonics/html-formatter.git"
+  },
+  "keywords": [
+    "JSON LD",
+    "Microdata",
+    "HTML Cleaner"
+  ],
+  "author": "Jayesh Panchal (jspanchal@ymail.com) [http://codetonics.com]",
+  "license": "MIT",
+  "homepage": "https://github.com/codetonics/html-formatter",
+  "dependencies": {
+    "jsdom": "^11.10.0"
+  }
+}
